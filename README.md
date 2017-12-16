@@ -26,7 +26,7 @@ The website provides the facilities of:
    > Change password to a new one
 
 
-NOTE: Still there exists some small modifications to be done in the website, and a lot of upgradations.
+NOTE: Still there exists some small modifications to be done in the website, and a some more upgradations.
 
  
  
