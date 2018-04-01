@@ -3,7 +3,7 @@ As a part of the web development training at internshala, individually i made a 
 
 The website deals with selling of electronic products (mostly mobile phones).
 
-The website is fullly finctional with the front as well as backend working well.
+The website is fullly functional with the front-end as well as back-end working well.
 
 The website provides the facilities of:
 
@@ -23,10 +23,7 @@ The website provides the facilities of:
    
    > Ask product's related queries
    
-   > Change password to a new one
-
-
-NOTE: Still there exists some small modifications to be done in the website, and a some more upgradations.
+   > Change password to a new one.
 
  
  
