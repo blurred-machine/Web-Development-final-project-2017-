@@ -7,7 +7,7 @@ The website is fullly functional with the front-end as well as back-end working 
 
 The website provides the facilities of:
 
-   > Order a product 
+   > Order any product 
    
    > Log in
    
